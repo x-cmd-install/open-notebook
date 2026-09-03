@@ -1,22 +1,24 @@
 about:
-  description: An Open Source implementation of Notebook LM with more flexibility and features
+  description:
+  |
+    An Open Source implementation of Notebook LM with more flexibility and features
   license: MIT
   homepage: https://www.open-notebook.ai
   head: 9bd5f89
   archived: false
   latestVersion: v1.14.0
-  collectedAt: 2026-09-03T05:12:39Z
+  collectedAt: 2026-09-03T22:36:48Z
 timeline:
   created: 2024-10-21
   lastCommit: 2026-09-02
   lastRelease: 2026-07-21
 popularity:
-  star: 38113
-  watcher: 190
-  fork: 4416
+  star: 38155
+  watcher: 191
+  fork: 4418
   release: 42
   contributor: 73
-  pullRequest: 165
+  pullRequest: 170
   issue: 582
 language:
   TypeScript: 1788878
@@ -27,13 +29,13 @@ language:
   Makefile: 8163
   Dockerfile: 6706
   JavaScript: 671
-totalLine: 3029963
+totalBytes: 3029963
 recent:
   last30d:
     since: 2026-08-04
     release: 0
     mergedPR: 1
-    openPR: 27
+    openPR: 32
     closedIssue: 1
     openIssue: 14
     commit: 1
@@ -41,7 +43,7 @@ recent:
     since: 2026-06-05
     release: 5
     mergedPR: 188
-    openPR: 40
+    openPR: 45
     closedIssue: 90
     openIssue: 62
     commit: 191
@@ -49,7 +51,7 @@ recent:
     since: 2026-03-07
     release: 11
     mergedPR: 275
-    openPR: 40
+    openPR: 45
     closedIssue: 165
     openIssue: 74
     commit: 298
@@ -57,7 +59,7 @@ recent:
     since: 2025-09-08
     release: 25
     mergedPR: 436
-    openPR: 43
+    openPR: 48
     closedIssue: 394
     openIssue: 110
     commit: 522
