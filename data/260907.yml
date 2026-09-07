@@ -5,18 +5,18 @@ about:
   head: 2d2df8a
   archived: false
   latestVersion: "v1.14.0"
-  collectedAt: 2026-09-07T05:59:30Z
+  collectedAt: 2026-09-07T18:33:59Z
 timeline:
   created: 2024-10-21
   lastCommit: 2026-09-05
   lastRelease: 2026-07-21
 popularity:
-  star: 38329
-  watcher: 191
-  fork: 4439
+  star: 38361
+  watcher: 192
+  fork: 4443
   release: 42
   contributor: 84
-  pullRequest: 653
+  pullRequest: 652
   issue: 587
 language:
   TypeScript: 1820300
@@ -86,7 +86,7 @@ total:
   commit: 969
 ---
 path: /home/runner/.x-repo/github.com/lfnovo/open-notebook
-collectedAt: 2026-09-07T05:59:32Z
+collectedAt: 2026-09-07T18:34:01Z
 loc:
   Python:
     code: 25971
@@ -172,7 +172,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:59:33+00:00
+  collectedAt: 2026-09-07T18:34:02+00:00
   platform:
     darwin/arm64:
       name:  null
