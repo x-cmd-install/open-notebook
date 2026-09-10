@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.14.0"
   latestRelease: "v1.14.0"
   latestPrerelease: "v0.0.2"
-  collectedAt: 2026-09-10T18:00:44Z
+  collectedAt: 2026-09-10T23:47:54Z
 timeline:
   created: 2024-10-21
   lastCommit: 2026-09-05
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-07-21
   lastPrerelease: 2024-10-22
 popularity:
-  star: 38545
+  star: 38549
   watcher: 189
   fork: 4453
   release: 42
@@ -90,7 +90,7 @@ total:
   commit: 969
 ---
 path: /home/runner/.x-repo/github.com/lfnovo/open-notebook
-collectedAt: 2026-09-10T18:00:50Z
+collectedAt: 2026-09-10T23:47:57Z
 loc:
   Python:
     code: 25971
