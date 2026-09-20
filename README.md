@@ -4,7 +4,7 @@
 
 An Open Source implementation of Notebook LM with more flexibility and features
 
-![open-notebook](https://repo.x-cmd.io/open-notebook.svg)
+[![x-cmd/install — open-notebook Code Quality Monitoring Repo Card](https://repo.x-cmd.io/open-notebook.svg)](https://x-cmd.com/install/open-notebook)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **80,606** lines of code across **399** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 39,109 · **Forks**: 4,534 · **Open issues**: 591 · **Contributors**: 87
+- **Stars**: 39,227 · **Forks**: 4,549 · **Open issues**: 593 · **Contributors**: 87
 
 ## Totals (cumulative)
 
-- **Releases**: 42 · **Merged PRs**: 508 · **Open PRs**: 20 · **Closed issues**: 496 · **Open issues**: 95 · **Commits**: 977
+- **Releases**: 42 · **Merged PRs**: 508 · **Open PRs**: 21 · **Closed issues**: 496 · **Open issues**: 97 · **Commits**: 977
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 31 | 13 | 10 | 5 | 48 |
-| last60d | 2026-07-20 | 1 | 54 | 18 | 27 | 14 | 52 |
-| 90d | 2026-06-20 | 4 | 198 | 18 | 84 | 43 | 188 |
-| last180d | 2026-03-22 | 10 | 306 | 18 | 173 | 61 | 326 |
-| 360d | 2025-09-23 | 25 | 481 | 20 | 413 | 95 | 567 |
-| last720d | 2024-09-28 | 42 | 508 | 20 | 496 | 95 | 977 |
+| 30d | 2026-08-21 | 0 | 31 | 14 | 9 | 7 | 48 |
+| last60d | 2026-07-22 | 0 | 51 | 19 | 22 | 13 | 52 |
+| 90d | 2026-06-22 | 4 | 183 | 19 | 75 | 41 | 188 |
+| last180d | 2026-03-24 | 10 | 306 | 19 | 173 | 63 | 326 |
+| 360d | 2025-09-25 | 25 | 481 | 21 | 413 | 97 | 567 |
+| last720d | 2024-09-30 | 42 | 508 | 21 | 496 | 97 | 977 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for open-notebook lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:20:39Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:21:41Z._

@@ -4,7 +4,7 @@
 
 An Open Source implementation of Notebook LM with more flexibility and features
 
-![open-notebook](https://repo.x-cmd.io/open-notebook.svg?lang=zh)
+[![x-cmd/install — open-notebook Code Quality Monitoring Repo Card](https://repo.x-cmd.io/open-notebook.svg?lang=zh)](https://x-cmd.com/install/open-notebook)
 
 ## 安装
 
@@ -37,22 +37,22 @@ x install open-notebook
 
 ## 流行度
 
-- **Star**: 39,109 · **Fork**: 4,534 · **开放 issue**: 591 · **贡献者**: 87
+- **Star**: 39,227 · **Fork**: 4,549 · **开放 issue**: 593 · **贡献者**: 87
 
 ## 累计统计
 
-- **发布数**: 42 · **已合并 PR**: 508 · **开放 PR**: 20 · **已关闭 issue**: 496 · **开放 issue**: 95 · **提交数**: 977
+- **发布数**: 42 · **已合并 PR**: 508 · **开放 PR**: 21 · **已关闭 issue**: 496 · **开放 issue**: 97 · **提交数**: 977
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 31 | 13 | 10 | 5 | 48 |
-| last60d | 2026-07-20 | 1 | 54 | 18 | 27 | 14 | 52 |
-| 90d | 2026-06-20 | 4 | 198 | 18 | 84 | 43 | 188 |
-| last180d | 2026-03-22 | 10 | 306 | 18 | 173 | 61 | 326 |
-| 360d | 2025-09-23 | 25 | 481 | 20 | 413 | 95 | 567 |
-| last720d | 2024-09-28 | 42 | 508 | 20 | 496 | 95 | 977 |
+| 30d | 2026-08-21 | 0 | 31 | 14 | 9 | 7 | 48 |
+| last60d | 2026-07-22 | 0 | 51 | 19 | 22 | 13 | 52 |
+| 90d | 2026-06-22 | 4 | 183 | 19 | 75 | 41 | 188 |
+| last180d | 2026-03-24 | 10 | 306 | 19 | 173 | 63 | 326 |
+| 360d | 2025-09-25 | 25 | 481 | 21 | 413 | 97 | 567 |
+| last720d | 2024-09-30 | 42 | 508 | 21 | 496 | 97 | 977 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ open-notebook 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:20:40Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:21:42Z._
