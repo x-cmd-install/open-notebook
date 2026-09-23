@@ -4,7 +4,7 @@
 
 An Open Source implementation of Notebook LM with more flexibility and features
 
-[![x-cmd/install — open-notebook Code Quality Monitoring Repo Card](https://repo.x-cmd.io/open-notebook.svg)](https://x-cmd.com/install/open-notebook)
+[![x-cmd/install — open-notebook Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/open-notebook.svg)](https://x-cmd.com/install/open-notebook)
 
 ## Install
 
@@ -37,7 +37,7 @@ Total: **80,606** lines of code across **399** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 39,348 · **Forks**: 4,561 · **Open issues**: 593 · **Contributors**: 87
+- **Stars**: 39,400 · **Forks**: 4,558 · **Open issues**: 593 · **Contributors**: 87
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **80,606** lines of code across **399** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 31 | 18 | 9 | 7 | 48 |
-| last60d | 2026-07-24 | 0 | 47 | 22 | 20 | 13 | 49 |
-| 90d | 2026-06-24 | 4 | 182 | 23 | 74 | 40 | 180 |
-| last180d | 2026-03-26 | 10 | 304 | 23 | 166 | 61 | 321 |
-| 360d | 2025-09-27 | 25 | 481 | 25 | 412 | 97 | 567 |
-| last720d | 2024-10-02 | 42 | 508 | 25 | 496 | 97 | 977 |
+| 30d | 2026-08-24 | 0 | 31 | 18 | 9 | 7 | 48 |
+| last60d | 2026-07-25 | 0 | 46 | 21 | 19 | 13 | 49 |
+| 90d | 2026-06-25 | 4 | 180 | 23 | 74 | 38 | 180 |
+| last180d | 2026-03-27 | 10 | 304 | 23 | 164 | 61 | 321 |
+| 360d | 2025-09-28 | 25 | 481 | 25 | 412 | 97 | 567 |
+| last720d | 2024-10-03 | 42 | 508 | 25 | 496 | 97 | 977 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for open-notebook lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:39:39Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:46:57Z._
