@@ -37,22 +37,22 @@ Total: **80,606** lines of code across **399** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 39,610 · **Forks**: 4,587 · **Open issues**: 593 · **Contributors**: 87
+- **Stars**: 39,645 · **Forks**: 4,591 · **Open issues**: 594 · **Contributors**: 87
 
 ## Totals (cumulative)
 
-- **Releases**: 42 · **Merged PRs**: 508 · **Open PRs**: 27 · **Closed issues**: 496 · **Open issues**: 97 · **Commits**: 977
+- **Releases**: 42 · **Merged PRs**: 508 · **Open PRs**: 27 · **Closed issues**: 496 · **Open issues**: 98 · **Commits**: 977
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 0 | 28 | 19 | 6 | 7 | 33 |
-| last60d | 2026-07-31 | 0 | 43 | 22 | 16 | 12 | 48 |
-| 90d | 2026-07-01 | 4 | 173 | 25 | 71 | 36 | 173 |
-| last180d | 2026-04-02 | 10 | 299 | 25 | 156 | 60 | 304 |
-| 360d | 2025-10-04 | 25 | 481 | 27 | 407 | 97 | 567 |
-| last720d | 2024-10-09 | 42 | 508 | 27 | 496 | 97 | 977 |
+| 30d | 2026-08-31 | 0 | 27 | 19 | 6 | 8 | 33 |
+| last60d | 2026-08-01 | 0 | 42 | 22 | 16 | 13 | 48 |
+| 90d | 2026-07-02 | 4 | 173 | 25 | 71 | 37 | 173 |
+| last180d | 2026-04-03 | 10 | 299 | 25 | 156 | 61 | 304 |
+| 360d | 2025-10-05 | 25 | 481 | 27 | 407 | 98 | 567 |
+| last720d | 2024-10-10 | 42 | 508 | 27 | 496 | 98 | 977 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for open-notebook lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T07:12:42Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:59:52Z._
