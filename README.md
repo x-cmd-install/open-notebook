@@ -32,27 +32,27 @@ Total: **84,123** lines of code across **423** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.15.0` (2026-10-04)
+- **Latest**: `v1.15.1` (2026-11-04)
 - **Last commit**: 2026-11-04
 
 ## Popularity
 
-- **Stars**: 41,540 · **Forks**: 4,771 · **Open issues**: 653 · **Contributors**: 93
+- **Stars**: 41,603 · **Forks**: 4,784 · **Open issues**: 653 · **Contributors**: 93
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 551 · **Open PRs**: 58 · **Closed issues**: 518 · **Open issues**: 135 · **Commits**: 1021
+- **Releases**: 44 · **Merged PRs**: 551 · **Open PRs**: 63 · **Closed issues**: 518 · **Open issues**: 135 · **Commits**: 1021
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 1 | 39 | 0 | 10 | 2 |
-| last60d | 2026-09-05 | 1 | 45 | 52 | 21 | 45 | 52 |
-| 90d | 2026-08-06 | 1 | 80 | 55 | 37 | 49 | 92 |
-| last180d | 2026-05-08 | 7 | 305 | 56 | 154 | 96 | 318 |
-| 360d | 2025-11-09 | 24 | 493 | 58 | 384 | 128 | 551 |
-| last720d | 2024-11-14 | 33 | 538 | 58 | 514 | 135 | 833 |
+| 30d | 2026-10-06 | 1 | 1 | 41 | 0 | 10 | 2 |
+| last60d | 2026-09-06 | 2 | 44 | 57 | 21 | 45 | 52 |
+| 90d | 2026-08-07 | 2 | 79 | 60 | 37 | 49 | 92 |
+| last180d | 2026-05-09 | 8 | 305 | 61 | 153 | 96 | 318 |
+| 360d | 2025-11-10 | 25 | 493 | 63 | 384 | 128 | 551 |
+| last720d | 2024-11-15 | 33 | 538 | 63 | 514 | 135 | 822 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for open-notebook lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:50:56Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T08:09:50Z._
