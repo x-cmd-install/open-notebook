@@ -14,14 +14,14 @@ x install open-notebook
 
 ## Code insight
 
-Total: **84,933** lines of code across **427** files in the top 5 languages.
+Total: **84,875** lines of code across **427** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Python | 30,567 | 1,890 | 5,923 | 159 |
 | Tsx | 20,002 | 661 | 2,037 | 151 |
 | TypeScript | 19,759 | 660 | 910 | 104 |
-| Json | 13,013 | 0 | 0 | 4 |
+| Json | 12,942 | 0 | 0 | 4 |
 | Yaml | 410 | 297 | 30 | 9 |
 
 ## Source
@@ -37,22 +37,22 @@ Total: **84,933** lines of code across **427** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 41,749 · **Forks**: 4,797 · **Open issues**: 656 · **Contributors**: 102
+- **Stars**: 41,783 · **Forks**: 4,801 · **Open issues**: 656 · **Contributors**: 102
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 571 · **Open PRs**: 51 · **Closed issues**: 524 · **Open issues**: 132 · **Commits**: 1041
+- **Releases**: 44 · **Merged PRs**: 573 · **Open PRs**: 55 · **Closed issues**: 524 · **Open issues**: 132 · **Commits**: 1043
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 1 | 20 | 27 | 3 | 7 | 22 |
-| last60d | 2026-09-09 | 2 | 61 | 45 | 26 | 42 | 64 |
-| 90d | 2026-08-10 | 2 | 99 | 48 | 41 | 46 | 112 |
-| last180d | 2026-05-12 | 8 | 323 | 49 | 159 | 93 | 338 |
-| 360d | 2025-11-13 | 25 | 513 | 51 | 389 | 125 | 571 |
-| last720d | 2024-11-18 | 33 | 558 | 51 | 520 | 132 | 842 |
+| 30d | 2026-10-10 | 1 | 22 | 33 | 3 | 7 | 24 |
+| last60d | 2026-09-10 | 2 | 61 | 49 | 25 | 42 | 66 |
+| 90d | 2026-08-11 | 2 | 98 | 52 | 41 | 45 | 114 |
+| last180d | 2026-05-13 | 8 | 323 | 53 | 159 | 93 | 340 |
+| 360d | 2025-11-14 | 25 | 515 | 55 | 388 | 125 | 573 |
+| last720d | 2024-11-19 | 33 | 560 | 55 | 520 | 132 | 844 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for open-notebook lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T07:12:43Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T07:55:03Z._
