@@ -33,26 +33,26 @@ Total: **84,875** lines of code across **427** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.15.1` (2026-11-04)
-- **Last commit**: 2026-11-08
+- **Last commit**: 2026-11-12
 
 ## Popularity
 
-- **Stars**: 41,884 · **Forks**: 4,815 · **Open issues**: 656 · **Contributors**: 102
+- **Stars**: 41,921 · **Forks**: 4,822 · **Open issues**: 659 · **Contributors**: 102
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 573 · **Open PRs**: 59 · **Closed issues**: 525 · **Open issues**: 131 · **Commits**: 1043
+- **Releases**: 44 · **Merged PRs**: 574 · **Open PRs**: 62 · **Closed issues**: 526 · **Open issues**: 133 · **Commits**: 1044
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 1 | 19 | 32 | 2 | 6 | 24 |
-| last60d | 2026-09-13 | 2 | 59 | 53 | 24 | 41 | 66 |
-| 90d | 2026-08-14 | 2 | 98 | 56 | 41 | 45 | 114 |
-| last180d | 2026-05-16 | 8 | 320 | 57 | 160 | 92 | 340 |
-| 360d | 2025-11-17 | 25 | 514 | 59 | 387 | 124 | 573 |
-| last720d | 2024-11-22 | 32 | 560 | 59 | 521 | 131 | 832 |
+| 30d | 2026-10-14 | 1 | 20 | 35 | 3 | 8 | 0 |
+| last60d | 2026-09-14 | 2 | 60 | 56 | 25 | 43 | 0 |
+| 90d | 2026-08-15 | 2 | 98 | 59 | 42 | 47 | 0 |
+| last180d | 2026-05-17 | 8 | 321 | 60 | 161 | 94 | 0 |
+| 360d | 2025-11-18 | 25 | 515 | 62 | 387 | 126 | 0 |
+| last720d | 2024-11-23 | 32 | 561 | 62 | 522 | 133 | 833 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for open-notebook lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T09:04:28Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T08:23:45Z._
