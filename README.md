@@ -14,14 +14,14 @@ x install open-notebook
 
 ## Code insight
 
-Total: **89,121** lines of code across **447** files in the top 5 languages.
+Total: **91,299** lines of code across **457** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 33,075 | 2,017 | 6,417 | 169 |
-| Tsx | 21,119 | 713 | 2,186 | 156 |
-| TypeScript | 20,269 | 685 | 973 | 109 |
-| Json | 13,049 | 0 | 0 | 4 |
+| Python | 34,083 | 2,070 | 6,606 | 173 |
+| Tsx | 21,579 | 730 | 2,242 | 157 |
+| TypeScript | 20,959 | 713 | 1,009 | 114 |
+| Json | 13,064 | 0 | 0 | 4 |
 | Yaml | 414 | 321 | 30 | 9 |
 
 ## Source
@@ -33,26 +33,26 @@ Total: **89,121** lines of code across **447** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.15.1` (2026-11-04)
-- **Last commit**: 2026-11-13
+- **Last commit**: 2026-11-14
 
 ## Popularity
 
-- **Stars**: 41,947 · **Forks**: 4,820 · **Open issues**: 660 · **Contributors**: 122
+- **Stars**: 41,974 · **Forks**: 4,822 · **Open issues**: 662 · **Contributors**: 124
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 611 · **Open PRs**: 26 · **Closed issues**: 551 · **Open issues**: 109 · **Commits**: 1160
+- **Releases**: 44 · **Merged PRs**: 632 · **Open PRs**: 16 · **Closed issues**: 559 · **Open issues**: 103 · **Commits**: 1197
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 1 | 44 | 13 | 7 | 5 | 75 |
-| last60d | 2026-09-15 | 2 | 97 | 21 | 49 | 20 | 150 |
-| 90d | 2026-08-16 | 2 | 133 | 24 | 61 | 24 | 198 |
-| last180d | 2026-05-18 | 8 | 358 | 25 | 185 | 70 | 424 |
-| 360d | 2025-11-19 | 25 | 552 | 26 | 410 | 103 | 657 |
-| last720d | 2024-11-24 | 32 | 598 | 26 | 547 | 109 | 949 |
+| 30d | 2026-10-16 | 1 | 63 | 4 | 8 | 5 | 90 |
+| last60d | 2026-09-16 | 2 | 118 | 11 | 57 | 14 | 175 |
+| 90d | 2026-08-17 | 2 | 154 | 14 | 69 | 17 | 223 |
+| last180d | 2026-05-19 | 8 | 378 | 15 | 189 | 64 | 435 |
+| 360d | 2025-11-20 | 25 | 573 | 16 | 418 | 97 | 681 |
+| last720d | 2024-11-25 | 32 | 619 | 16 | 555 | 103 | 986 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for open-notebook lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T08:17:13Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T08:09:43Z._
