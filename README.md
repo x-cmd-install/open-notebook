@@ -33,26 +33,26 @@ Total: **91,299** lines of code across **457** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.15.1` (2026-11-04)
-- **Last commit**: 2026-11-14
+- **Last commit**: 2026-11-16
 
 ## Popularity
 
-- **Stars**: 42,013 · **Forks**: 4,825 · **Open issues**: 662 · **Contributors**: 124
+- **Stars**: 42,030 · **Forks**: 4,826 · **Open issues**: 663 · **Contributors**: 124
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 632 · **Open PRs**: 22 · **Closed issues**: 559 · **Open issues**: 103 · **Commits**: 1197
+- **Releases**: 44 · **Merged PRs**: 633 · **Open PRs**: 22 · **Closed issues**: 559 · **Open issues**: 104 · **Commits**: 1198
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 61 | 10 | 7 | 4 | 90 |
-| last60d | 2026-09-17 | 2 | 117 | 17 | 57 | 14 | 175 |
-| 90d | 2026-08-18 | 2 | 153 | 20 | 69 | 17 | 223 |
-| last180d | 2026-05-20 | 8 | 378 | 21 | 189 | 64 | 435 |
-| 360d | 2025-11-21 | 25 | 573 | 22 | 418 | 97 | 681 |
-| last720d | 2024-11-26 | 32 | 619 | 22 | 555 | 103 | 986 |
+| 30d | 2026-10-18 | 1 | 61 | 10 | 7 | 5 | 91 |
+| last60d | 2026-09-18 | 2 | 117 | 17 | 57 | 15 | 176 |
+| 90d | 2026-08-19 | 2 | 154 | 20 | 69 | 18 | 224 |
+| last180d | 2026-05-21 | 8 | 377 | 21 | 189 | 65 | 436 |
+| 360d | 2025-11-22 | 25 | 574 | 22 | 418 | 98 | 682 |
+| last720d | 2024-11-27 | 32 | 620 | 22 | 555 | 104 | 987 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for open-notebook lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:53:00Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T09:46:19Z._
